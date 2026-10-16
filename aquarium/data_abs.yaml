@@ -1,0 +1,13 @@
+names:
+- fish
+- jellyfish
+- penguin
+- puffin
+- shark
+- starfish
+- stingray
+nc: 7
+path: D:/CS42/ML/Lab1/aquarium
+test: test/images
+train: train/images
+val: valid/images
